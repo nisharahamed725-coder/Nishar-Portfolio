@@ -13,20 +13,19 @@ const inter = Inter({
 // Site-wide Metadata (Next.js Metadata API)
 // ─────────────────────────────────────────────────────────────────────────────
 export const metadata: Metadata = {
-  metadataBase: new URL("https://shashidhar-portfolio.netlify.app"),
+  metadataBase: new URL("https://nishar-ahamed-portfolio.netlify.app"),
 
   title: {
     default: "Nishar Ahamed M",
     template: "%s | Nishar Ahamed M",
   },
   description:
-    "Portfolio of Shashidhar Naik — Software Engineer II with 4+ years building scalable enterprise web apps. Expert in React, Next.js, Node.js, TypeScript, and MERN/MEVN stack. Open source contributor.",
-
+"Portfolio of Nishar Ahamed — BCA student and aspiring software developer passionate about programming, web development, and learning modern technologies.",
   keywords: [
     // Identity
-    "Shashidhar Naik",
-    "Shashidhar Naik Portfolio",
-    "shashidhar developer",
+    "Nishar Ahamed",
+    "Nishar Ahamed Portfolio",
+    "Nishar Ahamed developer",
     // Role keywords
     "Software Engineer II",
     "Full Stack Developer",
@@ -58,9 +57,9 @@ export const metadata: Metadata = {
     "Software Engineer Portfolio India",
   ],
 
-  authors: [{ name: "Shashidhar Naik", url: "https://shashidhar-portfolio.netlify.app" }],
-  creator: "Shashidhar Naik",
-  publisher: "Shashidhar Naik",
+  authors: [{ name: "Nishar Ahamed", url: "https://nishar-ahamed-portfolio.netlify.app" }],
+  creator: "Nishar Ahamed",
+  publisher: "Nishar Ahamed",
 
   formatDetection: {
     email: false,
@@ -89,21 +88,21 @@ export const metadata: Metadata = {
   // ── Open Graph ────────────────────────────────────────────────────────────
   openGraph: {
     type: "profile",
-    firstName: "Shashidhar",
-    lastName: "Naik",
-    username: "shashi089",
-    title: "Shashidhar Naik | Full Stack Developer Portfolio",
+    firstName: "Nishar",
+    lastName: "Ahamed",
+    username: "nishar",
+    title: "Nishar Ahamed Portfolio",
     description:
-      "Software Engineer II with 4+ years of experience. React, Next.js, Node.js, TypeScript. Frontend Lead for enterprise Warehouse Management System. Open source contributor.",
-    url: "https://shashidhar-portfolio.netlify.app",
-    siteName: "Shashidhar Naik Portfolio",
+"Portfolio of Nishar Ahamed — BCA student and aspiring software developer passionate about programming, web development, and learning modern technologies.",
+    url: "https://nishar-ahamed-portfolio.netlify.app",
+    siteName: "Nishar Ahamed Portfolio",
     locale: "en_US",
     images: [
       {
         url: "/portfolio_hero_section.png",
         width: 1200,
         height: 630,
-        alt: "Shashidhar Naik — Full Stack Developer Portfolio Preview",
+        alt: "Nishar Ahamed Portfolio Preview",
         type: "image/png",
       },
     ],
@@ -112,16 +111,17 @@ export const metadata: Metadata = {
   // ── Twitter Card ──────────────────────────────────────────────────────────
   twitter: {
     card: "summary_large_image",
-    title: "Shashidhar Naik | Full Stack Developer — React, Node.js, Next.js",
+    title: "Nishar Ahamed",
     description:
-      "Software Engineer II specializing in scalable enterprise web apps. Expert in MERN/MEVN stack and open source tools.",
+    "Portfolio of Nishar Ahamed — BCA student and aspiring software developer passionate about programming, web development, and learning modern technologies.",
+
     images: [
       {
         url: "/portfolio_hero_section.png",
-        alt: "Shashidhar Naik Portfolio Preview",
+        alt: "Nishar Ahamed Portfolio Preview",
       },
     ],
-    creator: "@shashidhar_dev",
+    creator: "Nishar Ahamed",
   },
 
   // ── Icons ─────────────────────────────────────────────────────────────────
