@@ -10,7 +10,7 @@ export const personSchema = {
     "@context": "https://schema.org",
     "@type": "Person",
     "@id": `${BASE_URL}/#person`,
-    name: "Shashidhar Naik",
+    name: "Nishar Ahamed",
     givenName: "Shashidhar",
     familyName: "Naik",
     jobTitle: "Software Engineer II",
@@ -66,10 +66,10 @@ export const websiteSchema = {
     "@context": "https://schema.org",
     "@type": "WebSite",
     "@id": `${BASE_URL}/#website`,
-    name: "Shashidhar Naik — Full Stack Developer Portfolio",
+    name: "Nishar Ahamed — Full Stack Developer Portfolio",
     url: BASE_URL,
     description:
-        "Professional portfolio of Shashidhar Naik, a Software Engineer II specializing in React, Next.js, Node.js, and enterprise web application development.",
+        "Professional portfolio of Nishar Ahamed, a Software Engineer II specializing in React, Next.js, Node.js, and enterprise web application development.",
     inLanguage: "en-US",
     author: {
         "@id": `${BASE_URL}/#person`,
@@ -89,9 +89,9 @@ export const projectsSchema = {
     "@context": "https://schema.org",
     "@type": "ItemList",
     "@id": `${BASE_URL}/#projects`,
-    name: "Shashidhar Naik's Software Projects",
+    name: "Nishar Ahamed's Software Projects",
     description:
-        "A collection of enterprise-grade web applications and open-source tools built by Shashidhar Naik.",
+        "A collection of enterprise-grade web applications and open-source tools built by Nishar Ahamed.",
     numberOfItems: 6,
     itemListElement: [
         {

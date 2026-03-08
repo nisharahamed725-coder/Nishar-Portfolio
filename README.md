@@ -1,4 +1,4 @@
-# 🚀 Shashidhar Naik | Full Stack Software Engineer Portfolio
+# 🚀 Nishar Ahamed | Portfolio
 
 ## 🌐 [Visit Live Portfolio →](https://shashidhar-portfolio.netlify.app/)
 
@@ -6,13 +6,14 @@
 [![Next.js](https://img.shields.io/badge/Framework-Next.js%2016-black?style=flat&logo=next.js)](https://nextjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Styling-Tailwind%20CSS%204-06B6D4?style=flat&logo=tailwindcss)](https://tailwindcss.com/)
 
-A premium, SEO-optimized portfolio website for **Shashidhar Naik**, a Senior Software Engineer specializing in building scalable enterprise web applications with the **MERN** (MongoDB, Express, React, Node.js) and **MEVN** (Vue.js instead of React) stacks. This portfolio showcases professional experience, open-source contributions, and expertise in modern web technologies including Next.js, TypeScript, and React.
+"Portfolio of Nishar Ahamed — BCA student and aspiring software developer passionate about programming, web development, and learning modern technologies.",
+
 
 ---
 
 ## 🎨 Preview
 
-![Shashidhar Naik Portfolio Hero Section](/public/portfolio_hero_section.png)
+![Nishar Ahamed Portfolio Hero Section](/public/portfolio_hero_section.png)
 
 ---
 
@@ -124,7 +125,7 @@ This project uses **Static Export** (`output: 'export'`) for maximum performance
 
 ## 🔗 Connect with Me
 
-- **LinkedIn**: [Shashidhar Naik](https://www.linkedin.com/in/shashidhar-naik-aab5b512a/)
+- **LinkedIn**: [Nishar Ahamed](https://www.linkedin.com/in/shashidhar-naik-aab5b512a/)
 - **GitHub**: [@shashi089](https://github.com/shashi089)
 - **NPM**: [@shashidharlbs](https://www.npmjs.com/~shashidharlbs)
 - **Portfolio**: [shashidhar-portfolio.netlify.app](https://shashidhar-portfolio.netlify.app/)

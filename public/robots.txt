@@ -1,4 +1,4 @@
-# robots.txt — Shashidhar Naik Portfolio
+# robots.txt — Nishar Ahamed Portfolio
 # https://shashidhar-portfolio.netlify.app
 
 User-agent: *
