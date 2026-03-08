@@ -1,23 +1,23 @@
 "use client";
 
 import { motion } from 'framer-motion';
-import { Database, Globe, Server, Cpu } from 'lucide-react';
+import {  Globe, Server, Cpu } from 'lucide-react';
 
 const About = () => {
     const skills = [
         {
             category: "Programming Languages",
-            icon: <Cpu className="w-6 h-6  text-emerald-400" />,
+            icon: <Cpu className="w-6 h-6 text-violet-400" />,
             items: ["C", "C++", "Java"]
         },
         {
             category: "Web Development",
-            icon: <Server className="w-6 h-6 text-pink-400" />,
-            items: ["HTML", "CSS", "JavaScript"]
+            icon: <Globe className="w-6 h-6 text-pink-400" />,
+            items: ["HTML"]
         },
         {
             category: "Tools",   
-            icon: <Cpu className="w-6 h-6 text-emerald-400" />,
+            icon: <Server className="w-6 h-6 text-emerald-400" />,
             items: [ "VS Code"]
         }
     ];

@@ -18,8 +18,8 @@ const Contact = () => {
                 >
                     <h2 className="text-3xl md:text-4xl font-bold mb-6">Get In Touch</h2>
                     <p className="text-slate-400 text-lg">
-                        I'm currently available for new opportunities. Whether you have a question or just want to say hi, I'll try my best to get back to you!
-                    </p>
+I'm a BCA student passionate about programming and technology. 
+Feel free to reach out if you'd like to connect, share ideas, or discuss opportunities.                    </p>
                 </motion.div>
 
                 <motion.div
@@ -33,8 +33,8 @@ const Contact = () => {
                             <Mail className="w-8 h-8" />
                         </div>
                         <h3 className="text-lg font-semibold text-slate-200 mb-2">Email</h3>
-                        <a href="mailto:shashidharnaikTest@gmail.com" className="text-slate-400 hover:text-violet-400 transition-colors break-all">
-                            shashidharnaik8@gmail.com
+                        <a href="mailto:nisharahamed725@gmail.com" className="text-slate-400 hover:text-violet-400 transition-colors break-all">
+                          nisharahamed725@gmail.com
                         </a>
                     </div>
 
@@ -44,7 +44,7 @@ const Contact = () => {
                         </div>
                         <h3 className="text-lg font-semibold text-slate-200 mb-2">Phone</h3>
                         <p className="text-slate-400">
-                            +91 9119437320
+                            +91 9791643914
                         </p>
                     </div>
 
@@ -54,7 +54,7 @@ const Contact = () => {
                         </div>
                         <h3 className="text-lg font-semibold text-slate-200 mb-2">Location</h3>
                         <p className="text-slate-400">
-                            Bangalore, Karnataka- 560076
+                            Nagapattinam, Tamilnadu
                         </p>
                     </div>
                 </motion.div>

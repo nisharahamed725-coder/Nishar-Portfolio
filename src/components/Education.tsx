@@ -4,29 +4,29 @@ import { motion } from 'framer-motion';
 import { GraduationCap, Calendar, Award } from 'lucide-react';
 
 const Education = () => {
-    const education = [
-        {
-            degree: "B.E. (Electronics and Communication Engineering)",
-            school: "BLDEA’s College of Engineering and Technology, Bijapur",
-            year: "2017",
-            score: "",
-            details: "Specialized in Electronics and Communication."
-        },
-        {
-            degree: "PUC (Higher Secondary Education)",
-            school: "SNJPNM’S PU Science College, Nidasoshi",
-            year: "2013",
-            score: "",
-            details: "Focus on Science curriculum."
-        },
-        {
-            degree: "SSLC (Secondary Education)",
-            school: "Rani Channamma High School, Hukkeri",
-            year: "2011",
-            score: "",
-            details: "High academic performance."
-        }
-    ];
+   const education = [
+    {
+        degree: "BCA (Bachelor of Computer Applications)",
+        school: "EGS Pillay Arts and Science College",
+        year: "2025 - Present",
+        score: "",
+        details: "Currently pursuing 1st year BCA with focus on computer programming and software development."
+    },
+    {
+        degree: "HSC (Higher Secondary Education)",
+        school: "GHSS Enangudi, Nagapattinam District",
+        year: "2025",
+        score: "79%",
+        details: "Completed higher secondary education."
+    },
+    {
+        degree: "SSLC (Secondary School Leaving Certificate)",
+        school: "GHSS Enangudi, Nagapattinam District",
+        year: "2023",
+        score: "83%",
+        details: "Completed secondary education."
+    }
+];
 
     return (
         <section id="education" aria-label="Academic Background" className="py-20 bg-slate-900/30">
